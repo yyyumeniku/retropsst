@@ -1,4 +1,4 @@
-# Psst
+# Retro Psst
 
 A fast Spotify client with a native GUI written in Rust, without Electron.
 Psst is still very early in development, lacking in features, stability, and general user experience.
